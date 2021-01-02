@@ -7,7 +7,7 @@ The goal of this problem is to learn about the use of classes, methods, and clas
 ## Elements of the Project
 The diagram below shows the classes and inheritance flow of the Adoption Center and the Adopters, and are explained in details;
 
-![alt text](https://github.com/ikennanwosu/pet_adoption/blob/master/inheritance_flow.png)
+![alt text](https://github.com/ikennanwosu/PetsAdoption/blob/main/images/inheritance_flow.png)
 
 ### PART 1: The Adoption Center 
 The adoption center class will hold information specific to each adoption center, as well as methods for fetching information from or modifying the adoption center. Such information include:
@@ -91,7 +91,7 @@ All of the inputs are the same as the `Adopter` class, _except_ that location is
 
 For this adopter, you will have to write an additional class method called `get_linear_distance(to_location)`, which will calculate the linear distance between two points, (x1,y1), (x2,y2) . You will want to calculate the distance by using the following formula:
 
-![alt text](https://github.com/ikennanwosu/pet_adoption/blob/master/formula.png)
+![alt text](https://github.com/ikennanwosu/PetsAdoption/blob/main/images/formula.png)
  
 This will be used calculate the linear distance between the `SluggishAdopter`, and the `AdoptionCenter`.
 
